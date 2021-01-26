@@ -14,7 +14,7 @@ package com.ds;
  * */
 public class Test1 {
 	public static void main(String[] args) {
-		System.out.println("Find single digit sum "+singleDigit(9999999999999L));
+		System.out.println("Find single digit sum "+singleDigit(999999999999L));
 		System.out.println("abcd "+rev("abcd"));
 	}
 	
