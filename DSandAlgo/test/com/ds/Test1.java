@@ -18,6 +18,12 @@ public class Test1 {
 		System.out.println("abcd "+rev("abcd"));
 	}
 	
+	public static int fibo(int n){
+		if(n==0 || n==1)
+			return n;
+		else
+			return fibo(n-1) + fibo(n-2);
+	}
 	
 	public static String rev(String s) {
 		if(s.length() == 1)
