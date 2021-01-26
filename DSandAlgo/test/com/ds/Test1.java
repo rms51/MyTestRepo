@@ -8,7 +8,7 @@ package com.ds;
  * 6. Permutation.
  * 7. fibo series
  * 8. reverse an array.
- * 
+ * 9. Find isPrime        // easy level
  * 
  * 
  * */
