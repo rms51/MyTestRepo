@@ -8,9 +8,6 @@ package com.ds;
  * 6. Permutation.
  * 7. fibo series
  * 8. reverse an array.
- * 
- * 
- * 
  * */
 public class Test1 {
 	public static void main(String[] args) {
